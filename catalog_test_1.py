@@ -1,5 +1,5 @@
 import unittest
-from app import get_doc_owner_name, add_new_doc, delete_doc
+from app_1 import get_doc_owner_name, add_new_doc, delete_doc
 from unittest.mock import patch
 
 

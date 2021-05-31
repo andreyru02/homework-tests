@@ -1,0 +1,4 @@
+TOKEN_VK = ''
+TOKEN_YA_DISK = ''
+LOGIN_YA_DISK = ''
+PASSWORD_YA_DISK = ''

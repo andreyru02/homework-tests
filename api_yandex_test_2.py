@@ -1,5 +1,5 @@
 import pytest
-from yandex import YaUploader
+from yandex_2 import YaUploader
 import config
 
 
